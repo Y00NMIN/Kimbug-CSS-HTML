@@ -14,12 +14,17 @@
 
 ## ☘Study List
 ### 🌱Day1  
-[HTML]Headings&Paragraph  
-[HTML]Emphasis  
-[HTML]Anchor  
+| study list  |          title         |                  Write                  |
+| :---------: | :--------------------: | :-------------------------------------: |
+|   HTML  |  Headings&Paragraph | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/1_Headings%26Paragraph.html">📄</a>  |
+|  HTML  |      Emphasis     | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/2_Emphasis.html">📄</a> |
+|  HTML   |      Anchor      | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/3_Anchor.htmly">📄</a>  |
 
 ### 🌱Day2
-[HTML]Image  
-[HTML]List  
-[HTML]Description List  
-[HTML]Quotations  
+| study list  |          title         |                  Write                  |
+| :---------: | :--------------------: | :-------------------------------------: |
+|   HTML      |                  Image | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/4_Image.html">📄</a>  |
+|  HTML       |            List        | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/5_List.html">📄</a> |
+|  HTML       |  Description List     | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/6_DescriptionList.html">📄</a>  |
+|  HTML       |    Quotations         | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/7_Quotations.html">📄</a> |
+
