@@ -15,5 +15,5 @@
 
 ## ☘Study List
 
-[ 🏆 HTML 날짜별 공부 정리! ]()
-[ 🏆 CSS 날짜별 공부 정리! ]()
+[ 🏆 HTML 날짜별 공부 정리! ](https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/HTML.md)
+[ 🏆 CSS 날짜별 공부 정리! ](https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/CSS.md)
