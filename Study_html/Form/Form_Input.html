@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Study</title>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <!--10_Study_Form_Input-->
+
+    <form action="" method="GET">
+      <!--input type: text-->
+      <!--required: 반드시 작성해야한다.-->
+      <input
+        type="text"
+        placeholder="아이디을 입력하세요"
+        minlength="5"
+        maxlength="13"
+        required
+      />
+      <!--value: txt가 미리 설정되어있다.-->
+      <input
+        type="text"
+        placeholder="이름을 입력하세요"
+        minlength="5"
+        maxlength="13"
+        value="윤민"
+      />
+      <!--disalbed: 작성 할 수 없다.-->
+      <input
+        type="text"
+        placeholder="코드을 입력하세요"
+        minlength="5"
+        maxlength="13"
+        disabled
+      />
+      <!--input type: email-->
+      <input type="email" placeholder="이메일을 입력하세요" />
+      <!--input type: password-->
+      <input
+        type="password"
+        placeholder="비밀번호를 입력하세요"
+        minlength="6"
+        required
+      />
+      <!--input type: URL-->
+      <input type="url" placeholder="포트폴리오 URL을 적으세요" />
+      <!--input type: number-->
+      <input
+        type="number"
+        min="12"
+        max="122"
+        placeholder="나이를 입력하세요(12세 이상~122세 이하)"
+      />
+      <!--input type: file-->
+      <input type="file" accept=".png, .jpg" />
+      <button>Submit</button>
+    </form>
+  </body>
+</html>
