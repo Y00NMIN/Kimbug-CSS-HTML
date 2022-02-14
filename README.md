@@ -15,27 +15,5 @@
 
 ## ☘Study List
 
-### 🌱Day1
-
-| study list |       title        |                                                   Write                                                    |
-| :--------: | :----------------: | :--------------------------------------------------------------------------------------------------------: |
-|    HTML    | Headings&Paragraph | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Headings%26Paragraph.html">📄</a> |
-|    HTML    |      Emphasis      |       <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Emphasis.html">📄</a>       |
-|    HTML    |       Anchor       |       <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Anchor.htmly">📄</a>        |
-
-### 🌱Day2
-
-| study list |      title       |                                                 Write                                                 |
-| :--------: | :--------------: | :---------------------------------------------------------------------------------------------------: |
-|    HTML    |      Image       |      <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Image.html">📄</a>      |
-|    HTML    |       List       |      <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/List.html">📄</a>       |
-|    HTML    | Description List | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/DescriptionList.html">📄</a> |
-|    HTML    |    Quotations    |   <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Quotations.html">📄</a>    |
-
-### 🌱Day3
-
-| study list |    title    |                                                 Write                                                 |
-| :--------: | :---------: | :---------------------------------------------------------------------------------------------------: |
-|    HTML    |    Form     |    <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Form/Form.html">📄</a>    |
-|    HTML    | Form(Input) | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Form/Form_Input.html">📄</a> |
-|    HTML    | Form(Label) | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Form/Form_Label.html">📄</a> |
+[ 🏆 HTML 날짜별 공부 정리! ]()
+[ 🏆 CSS 날짜별 공부 정리! ]()

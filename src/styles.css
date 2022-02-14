@@ -2,7 +2,8 @@ body {
   font-family: sans-serif;
 }
 
-/* styles.css */
+/* 
+styles.css input 사용할떄 사용
 
 * {
   margin: 0;
@@ -67,3 +68,4 @@ input:active {
 input[type="file"] {
   padding-top: 10px;
 }
+*/

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Parcel Sandbox</title>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <!--12_Study_Form_Radio&Checkbox-->
+    <!--단일 선택 input type radio / 다중 선택 input type checkbox-->
+
+    <!--radio:name을 동일하게 설정해줘야함, value를 통해 2개가 서로 다름 표기해야함-->
+    <form action="" method="GET">
+      <input type="radio" name="subscription" value="1" id="subscribed" />
+      <label for="subscribed">구독중</label>
+      <input type="radio" name="subscription" value="0" id="unsubscribed" />
+      <label for="unsubscribed">미구독</label>
+      <button type="submit">Subscribed</button>
+    </form>
+
+    <!--checkbox: radio와 사용 법 동일 name = value -->
+    <h1>사용 가능 언어</h1>
+    <form action="" method="GET">
+      <input type="checkbox" name="web" value="html" id="html" />
+      <label for="html">HTML</label>
+      <input type="checkbox" name="web" value="css" id="css" />
+      <label for="css">CSS</label>
+      <input type="checkbox" name="web" value="javascript" id="javascript" />
+      <label for="javascript">Javascript</label>
+      <button type="submit">submit</button>
+    </form>
+  </body>
+</html>
