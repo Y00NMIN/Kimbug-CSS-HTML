@@ -31,3 +31,10 @@
 | :--------: | :------------------: | :------------------------------------------------------------------------------------------------------------: |
 |    HTML    | Form(Radio&Checkbox) | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Form/Form_Radio&Checkbox.html">📄</a> |
 |    HTML    | Form(Select&Option)  | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Form/Form_Select&Option.html">📄</a>  |
+
+### 🌱Day5
+
+| study list |     title      |                                                  Write                                                   |
+| :--------: | :------------: | :------------------------------------------------------------------------------------------------------: |
+|    HTML    | From(Textarea) | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Form/Form_Textarea.html">📄</a> |
+|    HTML    | Form(Buttons)  |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Form/Form_button.html">📄</a>  |
