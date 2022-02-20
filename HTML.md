@@ -38,3 +38,11 @@
 | :--------: | :------------: | :------------------------------------------------------------------------------------------------------: |
 |    HTML    | From(Textarea) | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Form/Form_Textarea.html">📄</a> |
 |    HTML    | Form(Buttons)  |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Form/Form_button.html">📄</a>  |
+
+### 🌱Day6
+
+| study list |         title          |                                                   Write                                                    |
+| :--------: | :--------------------: | :--------------------------------------------------------------------------------------------------------: |
+|    HTML    |         Table          |     <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Table/Table.html">📄</a>      |
+|    HTML    |     Table practice     | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Table/Table_practice.html">📄</a> |
+|    HTML    | Media(img,video,audio) |        <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/media.htmly">📄</a>        |

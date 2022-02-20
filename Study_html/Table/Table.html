@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Study</title>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <!--15_Study_Table-->
+    <!--Table은 데이터를 담은표를 만들때 사용-->
+    <table>
+      <tr>
+        <!--table row: tabel 줄 생성-->
+        <th>table hader</th>
+        <td>table data</td>
+      </tr>
+    </table>
+    <!--주의! td내용이 없더라고 th태그와 개수가 동일해야한다.
+-->
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>이름</th>
+          <th>개발분야</th>
+          <th>기타</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>0001</td>
+          <td>Yoon</td>
+          <td>Front end</td>
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>0002</td>
+          <td>Kim</td>
+          <td>Full stack</td>
+          <td></td>
+        </tr>
+      </tbody>
+      <!--thead,tbody,tfoot을 사용하는 이유는 코드를 알아보기 쉽게 작성하기 위함이다.-->
+      <tfoot>
+        <tr>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+          <td>0</td>
+        </tr>
+      </tfoot>
+    </table>
+  </body>
+</html>

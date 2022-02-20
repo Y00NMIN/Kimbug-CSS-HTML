@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Study</title>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <!--17_study_media_files-->
+    <!--<img src="" alt=""/>-->
+
+    <!--<audio src=""></audio>-->
+    <audio src="media/a.mp3" controls></audio>
+    <audio src="media/a.mp3" autoplay></audio>
+    <audio src="media/a.mp3" loop autoplay></audio>
+    <!--둘의 차이점은 video type을 play할수없는 browser를 지원하기 위함-->
+    <audio controls>
+      <source src="media/a.mp3" type="audio/mpeg" />
+      <source src="media/a.wav" type="audio/wav" />
+      <source src="media/a.ogg " type="audio/ogg" />
+      <p>You need update browser</p>
+    </audio>
+
+    <!--video와 audio는 사용법이 동일하다-->
+    <!--video-->
+    <video src="media/sea.mov" controls></video>
+    <video src="media/sea.mov" autoplay></video>
+    <video src="media/sea.mov" loop autoplay></video>
+    <video controls>
+      <source src="media/sea.mov" type="video/mp4" />
+      <source src="media/sea.mp4" type="video/mp4" />
+      <p>You need update browser</p>
+      <a href="https://browsehappy.com/">브라우저 업데이트 하기</a>
+    </video>
+
+    <!--iframe은 HTML문서 안에 또다른 HTML을 임베드하고 싶을때 사용-->
+    <!--직접 작성하는 일은 거의 없다. almost copy-->
+    <iframe src="https://edu.goorm.io/" frameborder="0"></iframe>
+  </body>
+</html>
