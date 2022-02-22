@@ -6,7 +6,7 @@
 | :--------: | :----------------: | :--------------------------------------------------------------------------------------------------------: |
 |    HTML    | Headings&Paragraph | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Headings%26Paragraph.html">📄</a> |
 |    HTML    |      Emphasis      |       <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Emphasis.html">📄</a>       |
-|    HTML    |       Anchor       |       <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Anchor.htmly">📄</a>        |
+|    HTML    |       Anchor       |        <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Anchor.html">📄</a>        |
 
 ### 🌱Day2
 
@@ -45,4 +45,12 @@
 | :--------: | :--------------------: | :--------------------------------------------------------------------------------------------------------: |
 |    HTML    |         Table          |     <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Table/Table.html">📄</a>      |
 |    HTML    |     Table practice     | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/Table/Table_practice.html">📄</a> |
-|    HTML    | Media(img,video,audio) |        <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/media.htmly">📄</a>        |
+|    HTML    | Media(img,video,audio) |        <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/media.html">📄</a>         |
+
+### 🌱Day7
+
+| study list |     title     |                                                    Write                                                    |
+| :--------: | :-----------: | :---------------------------------------------------------------------------------------------------------: |
+|    HTML    |    ETC Tag    |        <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/etcTag.html">📄</a>         |
+|    HTML    | HTML standard |   <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/htmlStandard/html.html">📄</a>   |
+|    HTML    |   HTML Head   | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/htmlStandard/htmlHead.html">📄</a> |
