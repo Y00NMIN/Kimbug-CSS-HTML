@@ -60,30 +60,30 @@
 
 # 🥇Let's Practice HTML
 
-### 📑Ad Banner
+### [📑Ad Banner](https://github.com/Y00NMIN/Kimbug-CSS-HTML/commit/3cca2f049415a1c224bdaf8ec400fea6f81ded74)
 
-### 📜Google Search Result Item
+### [📜Google Search Result Item](https://github.com/Y00NMIN/Kimbug-CSS-HTML/commit/c291d23c11bda72244cce6c13f151738876c9a1e)
 
-### 🎁Feature Box
+### [🎁Feature Box]()
 
-### ✨Logo in Header
+### [✨Logo in Header]()
 
-### 🎈Breadcrumb & Pagination
+### [🎈Breadcrumb & Pagination]()
 
-### 🎟product Card
+### [🎟product Card]()
 
-### 🧑🏻Instagran User Profile
+### [🧑🏻Instagran User Profile]()
 
-### 📖Receipt
+### [📖Receipt]()
 
-### 🔮Github Dropdown Menu
+### [🔮Github Dropdown Menu]()
 
-### ♣input Group
+### [♣input Group]()
 
-### 📰Feed
+### [📰Feed]()
 
-### 📧Gmail Inbox
+### [📧Gmail Inbox]()
 
-### 🎵Music Player
+### [🎵Music Player]()
 
-### 🎞Video Player
+### [🎞Video Player]()
