@@ -56,4 +56,34 @@
 |    HTML    |   HTML Head   | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/htmlStandard/htmlHead.html">📄</a> |
 |    HTML    |   Meta Data   | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/htmlStandard/metadata.html">📄</a> |
 
-### 🌳finish HTML🌳
+### 🌳finish Study HTML🌳
+
+# 🥇Let's Practice HTML
+
+### 📑Ad Banner
+
+### 📜Google Search Result Item
+
+### Feature Box
+
+### ✨Logo in Header
+
+### 🎈Breadcrumb & Pagination
+
+### 🎟product Card
+
+### 🧑🏻Instagran User Profile
+
+### 📖Receipt
+
+### 🔮Github Dropdown Menu
+
+### ♣input Group
+
+### 📰Feed
+
+### 📧Gmail Inbox
+
+### 🎵Music Player
+
+### 🎞Video Player
