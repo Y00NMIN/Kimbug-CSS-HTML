@@ -54,3 +54,6 @@
 |    HTML    |    ETC Tag    |        <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/etcTag.html">📄</a>         |
 |    HTML    | HTML standard |   <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/htmlStandard/html.html">📄</a>   |
 |    HTML    |   HTML Head   | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/htmlStandard/htmlHead.html">📄</a> |
+|    HTML    |   Meta Data   | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Study_html/htmlStandard/metadata.html">📄</a> |
+
+#🥇finish HTML
