@@ -8,20 +8,30 @@
       rel="stylesheet"
       type="text/css"
     />
-    <title>google-search-result-item</title>
-    <link rel="stylesheet" href="PracticeHTML/LogoInHeader.css" />
+    <title>Breadcrumb & Pagination</title>
+    <link rel="stylesheet" href="PracticeHTML/BreadcrumbPagination.css" />
   </head>
   <body>
-    <div class="header">
-      <h1>
-        <a href="./index.html">
-          <img
-            src="https://statics.goorm.io/logo/edu/goorm_edu.svg"
-            alt="Groom Edu"
-          />
-        </a>
-      </h1>
-      <p><a href="https://edu.goorm.io/qna"> Q&amp;A</a></p>
+    <div class="breadcrumb">
+        <img src="https://raw.githubusercontent.com/rohjs/bugless-101/cc64c9b6e3b2b5a230bd0b0507c2e2fe9ec0a2e5/html-practice/05-breadcrumb-and-pagination/assets/icon-repository.svg" alt="">
+      <a href="https://github.com/Y00NMIN" aria-label="Go to yoonmin gitub">yoonmin</a>
+      <span>/</span>
+      <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML" aria-label="Go to kimbug HTML,CSS StudyPage">Kimbug CSS+HTML</a>
+    </div>
+
+    <div class="pagination"><!--aria label 스크린 리더기API-->
+      <a href="#" aria-label="Go to previous page" class="disabled">Previous</a>
+      <ol>
+        <li><a href="#" aria-label="Current page. Go to page 1">1</a></li>
+        <li><a href="#" aria-label="Go to page 2">2</a></li>
+        <li><a href="#" aria-label="Go to page 3">3</a></li>
+        <li><a href="#" aria-label="Go to page 4">4</a></li>
+        <li><buttont type="button" disabled>...</button></a></li>
+        <li><a href="#" aria-label="Go to page 5">5</a></li>
+        <li><a href="#" aria-label="Go to page 6">6</a></li>
+        <li><a href="#" aria-label="Go to page 1">7</a></li>
+      </ol>
+      <a href="#">Next</a>
     </div>
     <script src="src/index.js"></script>
   </body>
