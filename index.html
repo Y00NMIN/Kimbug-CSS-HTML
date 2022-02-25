@@ -1,37 +1,46 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
   <head>
     <meta charset="UTF_8" />
     <meta name="viewport" content="width=dvice-width,inital-scale=1.0" />
-    <link
-      href="//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <title>Breadcrumb & Pagination</title>
-    <link rel="stylesheet" href="PracticeHTML/BreadcrumbPagination.css" />
+    <title>Product Card</title>
+    <link rel="stylesheet" href="PracticeHTML/ProductCard.css" />
+    <script
+      src="https://kit.fontawesome.com/869f10c14c.js"
+      crossorigin="anonymous"
+    ></script>
   </head>
   <body>
-    <div class="breadcrumb">
-        <img src="https://raw.githubusercontent.com/rohjs/bugless-101/cc64c9b6e3b2b5a230bd0b0507c2e2fe9ec0a2e5/html-practice/05-breadcrumb-and-pagination/assets/icon-repository.svg" alt="">
-      <a href="https://github.com/Y00NMIN" aria-label="Go to yoonmin gitub">yoonmin</a>
-      <span>/</span>
-      <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML" aria-label="Go to kimbug HTML,CSS StudyPage">Kimbug CSS+HTML</a>
-    </div>
+    <div class="product-card">
+      <div class="product-card-image">
+        <img
+          src="https://user-images.githubusercontent.com/19285811/69318246-becd7980-0c77-11ea-8324-6c43e2de8cf2.png"
+          alt=""
+        />
+      </div>
 
-    <div class="pagination"><!--aria label 스크린 리더기API-->
-      <a href="#" aria-label="Go to previous page" class="disabled">Previous</a>
-      <ol>
-        <li><a href="#" aria-label="Current page. Go to page 1">1</a></li>
-        <li><a href="#" aria-label="Go to page 2">2</a></li>
-        <li><a href="#" aria-label="Go to page 3">3</a></li>
-        <li><a href="#" aria-label="Go to page 4">4</a></li>
-        <li><buttont type="button" disabled>...</button></a></li>
-        <li><a href="#" aria-label="Go to page 5">5</a></li>
-        <li><a href="#" aria-label="Go to page 6">6</a></li>
-        <li><a href="#" aria-label="Go to page 1">7</a></li>
-      </ol>
-      <a href="#">Next</a>
+      <div class="product-card-title">
+        <h1>혼자가 혼자에게</h1>
+        <strong aria-label="오늘의 책 선정">
+          오늘의 책
+        </strong>
+      </div>
+
+      <strong class="product-card-author" aria-label="저자 이병률">
+        이병률
+      </strong>
+
+      <div class="product-card-review">
+        <strong aria-label="평점 9.4">
+          <span aria-hidden="true">
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star-half"></i>
+          </span>
+          9.4
+        </strong>
+      </div>
     </div>
     <script src="src/index.js"></script>
   </body>
