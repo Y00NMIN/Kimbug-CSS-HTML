@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=dvice-width,inital-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Feed</title>
-    <link rel="stylesheet" href="PracticeHTML/Feed.css" />
-    <script src="PracticeHTML/Feed.js" defer></script>
+    <link rel="stylesheet" href="PracticeHTML/Feed/Feed.css" />
+    <script src="PracticeHTML/Feed/Feed.js" defer></script>
     <script
       src="https://kit.fontawesome.com/b9d1456fd5.js"
       crossorigin="anonymous"
@@ -21,30 +21,33 @@
             alt="User profile image"
           />
         </a>
-        <h1>
-          <a href="a">yoonmin</a>
-        </h1>
-        <span aria-label="Posted 30 minutes ago">
-          30 min
-        </span>
+        <a href="a">
+          <h1>
+            <a href="a">yoonmin</a>
+          </h1>
+          <span aria-label="Posted 30 minutes ago">
+            30 min
+          </span>
+        </a>
         <button type="button">
-          Follow
+          follow
         </button>
       </div>
-      <div class="feed-content"></div>
-      <p>
-        The most beautiful experience we can have is the mysterious. It is the
-        fundamental emotion that stands at the cradle of true art and true
-        science. — Albert Einstein
-      </p>
+      <div class="feed-content">
+        <p>
+          The most beautiful experience we can have is the mysterious. It is the
+          fundamental emotion that stands at the cradle of true art and true
+          science. — Albert Einstein
+        </p>
+      </div>
       <div class="feed-footer">
         <button type="button">10 Likes</button>
         <button type="button">0 comment</button>
       </div>
-      <form action="" method="POST" class="feed-comment">
-        <textarea placeholder="Write a comment"></textarea>
-        <button type="button">Submit</button>
-      </form>
+      <div class="feed-comment">
+        <textarea name="feed_comment" placeholder="Write a comment"></textarea>
+        <button type="submit">Submit</button>
+      </div>
     </div>
   </body>
 </html>
