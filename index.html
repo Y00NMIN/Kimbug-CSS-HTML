@@ -4,50 +4,75 @@
     <meta charset="UTF_8" />
     <meta name="viewport" content="width=dvice-width,inital-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Feed</title>
-    <link rel="stylesheet" href="PracticeHTML/Feed/Feed.css" />
-    <script src="PracticeHTML/Feed/Feed.js" defer></script>
+    <title>Gmail Inbox</title>
+    <link rel="stylesheet" href="PracticeHTML/GmailInbox/GmailInbox.css" />
+    <script src="PracticeHTML/GmailInbox/GmailInbox.js" defer></script>
     <script
       src="https://kit.fontawesome.com/b9d1456fd5.js"
       crossorigin="anonymous"
     ></script>
   </head>
   <body>
-    <div class="feed">
-      <div class="feed-user-profile">
-        <a href="a">
-          <img
-            src="https://avatars.githubusercontent.com/u/89017779?v=4"
-            alt="User profile image"
-          />
-        </a>
-        <a href="a">
-          <h1>
-            <a href="a">yoonmin</a>
-          </h1>
-          <span aria-label="Posted 30 minutes ago">
-            30 min
-          </span>
-        </a>
-        <button type="button">
-          follow
-        </button>
-      </div>
-      <div class="feed-content">
-        <p>
-          The most beautiful experience we can have is the mysterious. It is the
-          fundamental emotion that stands at the cradle of true art and true
-          science. — Albert Einstein
-        </p>
-      </div>
-      <div class="feed-footer">
-        <button type="button">10 Likes</button>
-        <button type="button">0 comment</button>
-      </div>
-      <div class="feed-comment">
-        <textarea name="feed_comment" placeholder="Write a comment"></textarea>
-        <button type="submit">Submit</button>
-      </div>
-    </div>
+    <table class="inbox">
+      <thead>
+        <tr>
+          <th>Actions</th>
+          <th>Sender</th>
+          <th>Title</th>
+          <th>Timestamp</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="unread">
+          <td aria-label="checkbox">
+            <div class="inbox-actions">
+              <div class="inbox-checkbox">
+                <input type="checkbox" id="inbox-1" />
+                <label for="inbox-1" class="sr-only">Select</label>
+              </div>
+              <button type="button" class="inbox-star">
+                <span class="sr-only">Add to favorites </span>
+              </button>
+            </div>
+          </td>
+          <td aria-label="User"><strong> GoormEdu</strong></td>
+          <td aria-label="text">
+            <a href="#">
+              <strong>Rate your course: FRONTEND 101 WITH KIMBUG</strong>
+              <span>
+                - Woohyeon. How’s everything going? We want to hear your opnion
+                on...
+              </span>
+            </a>
+          </td>
+          <td aria-label="time">3:34PM</td>
+        </tr>
+        <tr class="read">
+          <td aria-label="checkbox">
+            <div class="inbox-actions">
+              <div class="inbox-checkbox">
+                <input type="checkbox" id="inbox-1" />
+                <label for="inbox-1" class="sr-only">Select</label>
+              </div>
+              <button type="button" class="inbox-star">
+                <span class="sr-only">Add to favorites </span>
+              </button>
+            </div>
+          </td>
+          <td aria-label="User"><strong> GoormEdu</strong></td>
+          <td aria-label="text">
+            <a href="#">
+              <strong class="sr-only">Read</strong>
+              <strong>Rate your course: FRONTEND 101 WITH KIMBUG</strong>
+              <span>
+                - Woohyeon. How’s everything going? We want to hear your opnion
+                on...
+              </span>
+            </a>
+          </td>
+          <td aria-label="time">3:34PM</td>
+        </tr>
+      </tbody>
+    </table>
   </body>
 </html>

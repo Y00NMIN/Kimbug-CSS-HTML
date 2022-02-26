@@ -139,21 +139,21 @@ body::after {
 }
 
 .inbox-star {
-  background-image: url(./assets/icon-star-border.svg);
+  background-image: url(PracticeHTML/GmailInbox/assets/icon-star-border.svg);
 }
 
 .inbox-star.active {
-  background-image: url(./assets/icon-star.svg);
+  background-image: url(PracticeHTML/GmailInbox/assets/icon-star.svg);
 }
 
 .inbox-checkbox::after {
   content: "";
   background-size: 90% auto;
-  background-image: url(./assets/icon-checkbox-outlined.svg);
+  background-image: url(PracticeHTML/GmailInbox/assets/icon-checkbox-outlined.svg);
 }
 
 .inbox-checkbox.active::after {
-  background-image: url(./assets/icon-checkbox-checked.svg);
+  background-image: url(PracticeHTML/GmailInbox/assets/icon-checkbox-checked.svg);
 }
 
 .inbox-checkbox {
