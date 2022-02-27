@@ -76,14 +76,16 @@
 
 ### [📖Receipt](https://github.com/Y00NMIN/Kimbug-CSS-HTML/commit/2b84cd13fe93f17127ef06bb5514f968d4c00f83)
 
-### [🔮Github Dropdown Menu]()
+### [🔮Github Dropdown Menu](https://github.com/Y00NMIN/Kimbug-CSS-HTML/commit/f456c0407eaa55a678c4607a995e9b50546304e2)
 
-### [♣input Group]()
+### [♣input Group](https://github.com/Y00NMIN/Kimbug-CSS-HTML/commit/fc6f807bc4620e215f5856a71e05cdfb25a4cb9c)
 
-### [📰Feed]()
+### [📰Feed](https://github.com/Y00NMIN/Kimbug-CSS-HTML/commit/e278343978107c5d15f5192e6886a3ba1f4bfbc1)
 
-### [📧Gmail Inbox]()
+### [📧Gmail Inbox](https://github.com/Y00NMIN/Kimbug-CSS-HTML/commit/d5ec6fbf1eba28c32e20c77e400e31b0038d5167)
 
-### [🎵Music Player]()
+### [🎵Music Player](https://github.com/Y00NMIN/Kimbug-CSS-HTML/commit/b02b9003239cd353e93b1372e1362b9c6742d3f2)
 
-### [🎞Video Player]()
+### [🎞Video Player](https://github.com/Y00NMIN/Kimbug-CSS-HTML/commit/e04c3aa518a5b6195530ac1bae73f9b9011968ee)
+
+## 🏁Finish
