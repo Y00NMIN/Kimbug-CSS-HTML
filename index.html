@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="UTF_8" />
     <meta name="viewport" content="width=dvice-width,inital-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Music Player</title>
-    <link rel="stylesheet" href="PracticeHTML/MusicPlayer/MusicPlayer.css" />
+    <title>Video Player</title>
+    <link rel="stylesheet" href="PracticeHTML/VideoPlayer/VideoPlayer.css" />
     <script src="PracticeHTML/MusicPlayer/MusicPlayer.js" defer></script>
     <script
       src="https://kit.fontawesome.com/b9d1456fd5.js"
@@ -13,56 +13,22 @@
     ></script>
   </head>
   <body>
-    <ol class="music-player">
-      <li class="music-play-item">
-        <img
-          src="https://m.media-amazon.com/images/I/814Rp76DidL._SS500_.jpg"
-          alt="러브 엑스 마키나"
-          lang="ko"
-          class="music-album-cover"
-        />
-        <div class="music-info">
-          <div class="music-info-detail">
-            <h1>
-              <span lang="ko">러브 엑스 마키나</span>
-              Love Ex Machina
-            </h1>
-            <strong lang="ko">MLSL (밀레니엄 살롱)</strong>
-          </div>
-          <span class="music-playtime">
-            <span class="sr-only">Duration</span>
-            04:09
-          </span>
-        </div>
-        <audio
-          src="PracticeHTML/MusicPlayer/assets/music-1.mp3"
-          class="music-audio"
-        ></audio>
-      </li>
-      <li class="music-play-item">
-        <img
-          src="https://p2.music.126.net/pXbfl0jRIIJ5zWB80tTu5w==/109951163709083630.jpg"
-          alt="눈"
-          lang="ko"
-          class="music-album-cover"
-        />
-        <div class="music-info">
-          <div class="music-info-detail">
-            <h1>
-              눈
-            </h1>
-            <strong>설</strong>
-          </div>
-          <span class="music-playtime">
-            <span class="sr-only">Duration</span>
-            04:09
-          </span>
-        </div>
-        <audio
-          src="PracticeHTML/MusicPlayer/assets/music-2.mp3"
-          class="music-audio"
-        ></audio>
-      </li>
-    </ol>
+    <div class="video-player">
+      <div class="video-container">
+        <video
+          src="PracticeHTML/VideoPlayer/DryFlower.mp4"
+          type="video/mp4"
+          controls
+        ></video>
+      </div>
+      <div class="video-player-info">
+        <h1>
+          🎵DryFlower - Surl
+        </h1>
+        <p>
+          SURL(설) - 'Don't Say No (Feat. #박재범 Jay Park)' Official M/V
+        </p>
+      </div>
+    </div>
   </body>
 </html>
