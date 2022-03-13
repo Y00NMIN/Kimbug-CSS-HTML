@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "poppins", sans-serif;
+}
+
+.parent {
+  background-color: skyblue;
+}
+
+.child,
+.other {
+  height: 50px;
+  color: #212529;
+  line-height: 50px;
+  text-indent: 20px;
+}
+.child {
+  background-color: tomato;
+  width: 400px;
+  height: 100px;
+  margin: 0 auto; /*left,right를 auto로 설정 하기때문에 가운데 배치*/
+}
+/*child tag=>width선언 없을 시 parent tag=>width를 따라간다.이때 남은 공간은 margin으로 자동으로 채워진다.*/
+
+.other {
+  background-color: chocolate;
+  width: 100px;
+  height: 100px;
+}
+/*parent tag=>height선언 없을시 child,other tag=>height의 합으로 height가 결정된다.*/
