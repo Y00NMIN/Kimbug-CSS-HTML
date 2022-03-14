@@ -1,0 +1,40 @@
+body {
+  font-family: "poppins", sans-serif;
+}
+/*When a problem occurs, How to fix Float*/
+/*
+First way => overflow:hidden
+Put {over flow:hidden} in parent tag of floated child tag
+*/
+.parent {
+  overflow: hidden;
+}
+.child {
+  float: left;
+}
+
+/*
+Second way => Clearfix(property)
+clear:left / clear:right / clear:both
+clear는 float를 인식한다. 또한 block element만 가능하다
+*/
+.child {
+  clear: left;
+}
+
+/*
+Pseudo-Element(가상 요소)
+가상 요소 사용시 반드시 content를 사용해야한다.
+*/
+.pseudo::before {
+  content: "✨";
+  margin-right: 20px;
+  font-size: 30px;
+}
+
+.pseudo::after {
+  content: "🙌";
+  display: inline-block;
+  font-size: italic;
+  background-color: skyblue;
+}

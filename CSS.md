@@ -19,3 +19,4 @@ Day1 Box 관련 정보는 [블로그](https://yoon-min-codinglog.tistory.com/33)
 | study list |          title           |                                                Write                                                 |
 | :--------: | :----------------------: | :--------------------------------------------------------------------------------------------------: |
 |   Float    | float basics explanation | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Float/BasicsFloat.css">📄</a> |
+|   Float    |        How to fix        | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Float/HowfixFloat.css">📄</a> |
