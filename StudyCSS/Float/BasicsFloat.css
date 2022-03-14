@@ -1,0 +1,31 @@
+body {
+  font-family: "poppins", sans-serif;
+}
+
+.parent {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #eff2f7;
+}
+
+.child {
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  color: #fff;
+  font-weight: 600;
+  float: left;
+}
+
+.red {
+  background-color: #ff4949;
+}
+
+.yellow {
+  background-color: #ffc82c;
+}
+
+.blue {
+  background-color: #0066ff;
+}
