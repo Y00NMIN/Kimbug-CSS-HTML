@@ -26,3 +26,4 @@ Day1 Box 관련 정보는 [블로그](https://yoon-min-codinglog.tistory.com/33)
 | study list |   title    |                                            Write                                             |
 | :--------: | :--------: | :------------------------------------------------------------------------------------------: |
 |   Float    | practice 1 | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Float/float-1">📄</a> |
+|   Float    | practice 2 | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Float/float-2">📄</a> |
