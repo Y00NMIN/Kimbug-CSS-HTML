@@ -4,7 +4,7 @@
 
 ### 🌱Day1
 
-Day1 Box 관련 정보는 [블로그](https://yoon-min-codinglog.tistory.com/33)에 정리해두었습니다!
+Day1 Box [블로그](https://yoon-min-codinglog.tistory.com/33) 정리 글.
 
 | study list |    title     |                                              Write                                               |
 | :--------: | :----------: | :----------------------------------------------------------------------------------------------: |
@@ -15,6 +15,8 @@ Day1 Box 관련 정보는 [블로그](https://yoon-min-codinglog.tistory.com/33)
 |    BOX     | Inline Block |                    <a href="https://yoon-min-codinglog.tistory.com/33">📄</a>                    |
 
 ### 🌱Day2
+
+Day2 Float [블로그](https://yoon-min-codinglog.tistory.com/34) 정리 글.
 
 | study list |          title           |                                                Write                                                 |
 | :--------: | :----------------------: | :--------------------------------------------------------------------------------------------------: |
