@@ -27,5 +27,5 @@ Day2 Float [블로그](https://yoon-min-codinglog.tistory.com/34) 정리 글.
 
 | study list |   title    |                                            Write                                             |
 | :--------: | :--------: | :------------------------------------------------------------------------------------------: |
-|   Float    | practice 1 | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Float/float-1">📄</a> |
-|   Float    | practice 2 | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Float/float-2">📄</a> |
+|   Float    | practice 1 | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Float/float-1">📂</a> |
+|   Float    | practice 2 | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Float/float-2">📂</a> |
