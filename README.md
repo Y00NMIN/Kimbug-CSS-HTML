@@ -2,7 +2,7 @@
 
 ![김버그의 HTML CSS는 재밌다 대표이미지](https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_abnek_1589965849144/coverImage.jpg?_=1590480955473)
 
-그동안 자바스크립트에 모든 시간을 투자하다보니,  
+자바스크립트에  시간을 투자하다보니,  
 문득 멈춰서니 CSS,HTML이 부족한 제가 보였습니다.🤨
 
 많은 강의를 찾아보며 고민한 결과 김버그님의 강의를 선택하게되었고,  
@@ -15,6 +15,6 @@
 
 ## ☘Study List
 
-### [ 🏆 HTML 날짜별 공부 정리! ](https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/HTML.md)
+### [ 🏆 Study HTML Day! ](https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/HTML.md)
 
-### [ 🏆 CSS 날짜별 공부 정리! ](https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/CSS.md)
+### [ 🏆 Study CSS Day! ](https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/CSS.md)
