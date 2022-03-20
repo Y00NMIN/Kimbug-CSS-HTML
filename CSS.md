@@ -32,7 +32,7 @@ Day2 Float [블로그](https://yoon-min-codinglog.tistory.com/34) 정리 글.
 
 ### 🌱Day4
 
-Day4 Position [블로그]() 정리 글.
+Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/35) 정리 글.
 
 | study list |      title       |                                          Write                                          |
 | :--------: | :--------------: | :-------------------------------------------------------------------------------------: |
