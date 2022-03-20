@@ -9,17 +9,25 @@ body {
 }
 
 .child {
-  width: 200px;
+  /* width: 200px;
   height: 200px;
-  line-height: 200px;
+  line-height: 200px; */
   text-align: center;
   color: #fff;
   font-weight: 600;
 }
+/*
+Type1.static
+static은 모든 요소의 기본 position값이다.
+우리가 생각하는 대부분의 요소의 초기 포지션의 일반적인 상태가 static이다.
+*/
 
+/*Type2.relative
 .red {
   background-color: #ff4949;
-  position: absolute;
+  position: relative;
+  top: 20px;
+  right: 200px;
 }
 
 .yellow {
@@ -29,3 +37,8 @@ body {
 .blue {
   background-color: #0066ff;
 }
+*/
+
+/*Type2.absolute
+
+*/
