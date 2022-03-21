@@ -39,6 +39,55 @@ static은 모든 요소의 기본 position값이다.
 }
 */
 
-/*Type2.absolute
+/*
+Type2.absolute
+.grandparent{
+  width: 800px;
+  background-color: darkgrey;
+  position: relative;
+  margin: 0;
+  height:600px ;
+}
 
+.red {
+  background-color: #ff4949;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.yellow {
+  background-color: #ffc82c;
+}
+
+.blue {
+  background-color: #0066ff;
+}
+
+*/
+
+/*
+Type2.fixed
+.grandparent{
+  width: 800px;
+  background-color: darkgrey;
+  position: relative;
+  margin: 0;
+  height:600px ;
+}
+
+.red {
+  background-color: #ff4949;
+  position: fixed;
+  bottom: 0px;
+  right:0px;
+}
+
+.yellow {
+  background-color: #ffc82c;
+}
+
+.blue {
+  background-color: #0066ff;
+}
 */
