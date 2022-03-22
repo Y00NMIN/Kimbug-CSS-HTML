@@ -40,3 +40,9 @@ Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/35) 정리 글.
 | study list |      title       |                                          Write                                          |
 | :--------: | :--------------: | :-------------------------------------------------------------------------------------: |
 |  Position  | absolute &fixed  | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Position">📂</a> |
+
+### 🌱Day4
+
+| study list |   title    |                                               Write                                                |
+| :--------: | :--------: | :------------------------------------------------------------------------------------------------: |
+|  Position  | practice 1 | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Position/position-1">📂</a> |
