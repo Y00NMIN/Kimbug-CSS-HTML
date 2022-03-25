@@ -37,7 +37,7 @@ button:active {
 
 .modal-desc {
   width: 590px;
-  margin: 0 auto;
+  margin: 0 auto 24px;
   font-size: 16px;
   line-height: 1.5;
   padding-bottom: 24px;
@@ -62,13 +62,12 @@ button:active {
 
 /* ▼ WHERE YOUR CODE BEGINS */
 .modal {
-  position: relative;
-  text-align: center;
-  height: 216px;
-}
-.modal,
-.modal-desc {
-  text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  padding: 32px 40px;
+  transform: translate(-50%, -50%);
+  border-radius: 4px;
 }
 
 .close-button {
