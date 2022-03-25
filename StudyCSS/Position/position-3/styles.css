@@ -36,9 +36,10 @@ button:active {
 }
 
 .modal-desc {
+  width: 590px;
+  margin: 0 auto;
   font-size: 16px;
   line-height: 1.5;
-  width: 590px;
   padding-bottom: 24px;
 }
 
