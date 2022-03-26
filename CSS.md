@@ -37,8 +37,6 @@ Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/35) 정리 글.
 | study list |      title       |                                          Write                                          |
 | :--------: | :--------------: | :-------------------------------------------------------------------------------------: |
 |  Position  | static &relative | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Position">📂</a> |
-| study list |      title       |                                          Write                                          |
-| :--------: | :--------------: | :-------------------------------------------------------------------------------------: |
 |  Position  | absolute &fixed  | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Position">📂</a> |
 
 ### 🏆Day5
@@ -48,3 +46,11 @@ Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/35) 정리 글.
 |  Position  | practice 1(User Card) | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Position/position-1">📂</a> |
 |  Position  |   practice 2(Card)    | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Position/position-2">📂</a> |
 |  Position  |   practice 3(Modal)   | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Position/position-3">📂</a> |
+
+### 🌱Day6
+
+Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/36) 정리 글.
+
+| study list | title |                                           Write                                            |
+| :--------: | :---: | :----------------------------------------------------------------------------------------: |
+|  FlexBox   |       | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/SetFlex.css">📄</a> |

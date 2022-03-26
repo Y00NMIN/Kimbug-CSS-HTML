@@ -1,0 +1,20 @@
+/* 선언 */
+.flexbox {
+  display: flex;
+  /* flex | inline-flex */
+}
+
+/* 정렬 방향 설정 */
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  /* row | row-reverse | column | column-reverse */
+}
+
+/* 정렬 감싸기 */
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  /* nowrap | wrap */
+}
