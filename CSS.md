@@ -51,6 +51,7 @@ Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/35) 정리 글.
 
 Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/36) 정리 글.
 
-| study list | title |                                           Write                                            |
-| :--------: | :---: | :----------------------------------------------------------------------------------------: |
-|  FlexBox   |       | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/SetFlex.css">📄</a> |
+| study list |  title  |                                           Write                                            |
+| :--------: | :-----: | :----------------------------------------------------------------------------------------: |
+|  FlexBox   | Setting | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/SetFlex.css">📄</a> |
+|  FlexBox   |   Use   |   <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Flexbox">📂</a>   |
