@@ -66,7 +66,7 @@ Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/36) 정리 글.
 
 ### 🌱Day8
 
-Day8 Position [블로그](https://yoon-min-codinglog.tistory.com/37) 정리 글.
+Day8 Media Query [블로그](https://yoon-min-codinglog.tistory.com/37) 정리 글.
 
 | study list  |  title   |                                                Write                                                |
 | :---------: | :------: | :-------------------------------------------------------------------------------------------------: |
