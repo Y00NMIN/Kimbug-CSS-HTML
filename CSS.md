@@ -27,7 +27,7 @@ Day2 Float [블로그](https://yoon-min-codinglog.tistory.com/34) 정리 글.
 
 | study list |        title         |                                            Write                                             |
 | :--------: | :------------------: | :------------------------------------------------------------------------------------------: |
-|   Float    |  practice 1(Tabnav)  | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Float/float-1">📂</a> |
+|   Float    |  practice 1(TabNav)  | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Float/float-1">📂</a> |
 |   Float    | practice 2(Mailltem) | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Float/float-2">📂</a> |
 
 ### 🌱Day4
@@ -55,3 +55,9 @@ Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/36) 정리 글.
 | :--------: | :-----: | :----------------------------------------------------------------------------------------: |
 |  FlexBox   | Setting | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/SetFlex.css">📄</a> |
 |  FlexBox   |   Use   |   <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Flexbox">📂</a>   |
+
+### 🏆Day7
+
+| study list |       title        |                                              Write                                               |
+| :--------: | :----------------: | :----------------------------------------------------------------------------------------------: |
+|  Flexbox   | practice 1(TabNav) | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Flexbox/flexbox-1">📂</a> |
