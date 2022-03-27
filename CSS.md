@@ -63,3 +63,12 @@ Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/36) 정리 글.
 |  Flexbox   |  practice 1(TabNav)  | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Flexbox/flexbox-1">📂</a> |
 |  Flexbox   | practice 2(Mailltem) | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Flexbox/flexbox-2">📂</a> |
 |  Flexbox   | practice 3(Profile)  | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Flexbox/flexbox-3">📂</a> |
+
+### 🌱Day8
+
+Day8 Position [블로그](https://yoon-min-codinglog.tistory.com/37) 정리 글.
+
+| study list  |  title   |                                                Write                                                |
+| :---------: | :------: | :-------------------------------------------------------------------------------------------------: |
+| Media Query |   Use    | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/MediaQuery/style.css">📄</a> |
+| Media Query | Practice |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/MediaQuery/media-1">📂</a>  |
