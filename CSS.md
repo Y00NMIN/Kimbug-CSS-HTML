@@ -49,7 +49,7 @@ Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/35) 정리 글.
 
 ### 🌱Day6
 
-Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/36) 정리 글.
+Day4 FlexBox [블로그](https://yoon-min-codinglog.tistory.com/36) 정리 글.
 
 | study list |  title  |                                           Write                                            |
 | :--------: | :-----: | :----------------------------------------------------------------------------------------: |
