@@ -1,0 +1,94 @@
+/* Font size */
+.text {
+  font-size: 16px;
+  /* 폰트 사이즈 설정할때 사용가능한 단위3가지 
+  px(절대 단위) | em(상대 단위) | rem(상대 단위) */
+}
+
+/*Line height*/
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+  /*사용되는 단위: px(절대 단위) | em(상대 단위) | rem(상대 단위) */
+}
+/*Letter spacing*/
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: -0.3em;
+  /*사용되는 단위: px(절대 단위) | em(상대 단위) */
+}
+
+/*Font family*/
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: -0.3em;
+  /*사용되는 단위: px(절대 단위) | em(상대 단위) */
+  font-family: "Poppins", sans-serif;
+}
+.text {
+  font-family: "Poppins"; /*Poppins 적용*/
+  font-family: "Poppins", sans-serif; /*Poppins 적용, 없다면 sans-serif계열 적용*/
+  font-family: "Poppins", "Roboto", sans-serif; /*Poppins 적용,Roboto적용, 없다면 sans-serif계열 적용*/
+}
+
+/*Font weight*/
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: -0.3em;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  /*100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900 */
+}
+
+/*color*/
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: -0.3em;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  color: #ffff;
+  /* hex | rgb | rgba*/
+}
+
+/*Text align*/
+.text {
+  text-align: center;
+  /* left | center | right*/
+}
+
+/*Text indent*/
+.text {
+  text-align: center;
+  text-indent: 100;
+}
+
+/*Text indent*/
+.text {
+  text-align: center;
+  text-indent: 100;
+  text-transform: none;
+  /* none | capitalize | uppercase | lowercase  */
+}
+
+/*Text decoration*/
+.text {
+  text-align: center;
+  text-indent: 100;
+  text-transform: none;
+  text-decoration: none;
+  /* none | underline | line-through | overline  */
+}
+
+/*Font style*/
+.text {
+  text-align: center;
+  text-indent: 100;
+  text-transform: none;
+  text-decoration: none;
+  font-style: italic;
+  /* normal | italic | oblique */
+}

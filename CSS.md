@@ -1,10 +1,10 @@
 # 🙌Study CSS
 
-## 👀HTML은 메인 각파일 내에 있는 main HTML(index.html)하나를 사용하니 같이 보시면 됩니다!
+### 👀HTML은 메인 각파일 내에 있는 main HTML(index.html)하나를 사용하니 같이 보시면 됩니다!
 
 ### 🌱Day1
 
-Day1 Box [블로그](https://yoon-min-codinglog.tistory.com/33) 정리 글.
+#### Day1 Box [블로그](https://yoon-min-codinglog.tistory.com/33) 정리 글.
 
 | study list |    title     |                                              Write                                               |
 | :--------: | :----------: | :----------------------------------------------------------------------------------------------: |
@@ -16,7 +16,7 @@ Day1 Box [블로그](https://yoon-min-codinglog.tistory.com/33) 정리 글.
 
 ### 🌱Day2
 
-Day2 Float [블로그](https://yoon-min-codinglog.tistory.com/34) 정리 글.
+#### Day2 Float [블로그](https://yoon-min-codinglog.tistory.com/34) 정리 글.
 
 | study list |          title           |                                                Write                                                 |
 | :--------: | :----------------------: | :--------------------------------------------------------------------------------------------------: |
@@ -32,7 +32,7 @@ Day2 Float [블로그](https://yoon-min-codinglog.tistory.com/34) 정리 글.
 
 ### 🌱Day4
 
-Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/35) 정리 글.
+#### Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/35) 정리 글.
 
 | study list |      title       |                                          Write                                          |
 | :--------: | :--------------: | :-------------------------------------------------------------------------------------: |
@@ -49,7 +49,7 @@ Day4 Position [블로그](https://yoon-min-codinglog.tistory.com/35) 정리 글.
 
 ### 🌱Day6
 
-Day4 FlexBox [블로그](https://yoon-min-codinglog.tistory.com/36) 정리 글.
+#### Day4 FlexBox [블로그](https://yoon-min-codinglog.tistory.com/36) 정리 글.
 
 | study list |  title  |                                           Write                                            |
 | :--------: | :-----: | :----------------------------------------------------------------------------------------: |
@@ -66,9 +66,18 @@ Day4 FlexBox [블로그](https://yoon-min-codinglog.tistory.com/36) 정리 글.
 
 ### 🌱Day8
 
-Day8 Media Query [블로그](https://yoon-min-codinglog.tistory.com/37) 정리 글.
+#### Day8 Media Query [블로그](https://yoon-min-codinglog.tistory.com/37) 정리 글.
 
 | study list  |  title   |                                                Write                                                |
 | :---------: | :------: | :-------------------------------------------------------------------------------------------------: |
 | Media Query |   Use    | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/MediaQuery/style.css">📄</a> |
 | Media Query | Practice |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/MediaQuery/media-1">📂</a>  |
+
+### 🌱Day9
+
+#### Day9 Typography [블로그](https://yoon-min-codinglog.tistory.com/38) 정리 글.
+
+| study list |                                               title                                                | Write |
+| :--------: | :------------------------------------------------------------------------------------------------: | :---: |
+| Typography |
+|  property  | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Typography/Typo.css">📂</a> |
