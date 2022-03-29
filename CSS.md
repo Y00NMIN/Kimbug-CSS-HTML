@@ -77,7 +77,9 @@
 
 #### Day9 Typography [블로그](https://yoon-min-codinglog.tistory.com/38) 정리 글.
 
-| study list |                                               title                                                | Write |
-| :--------: | :------------------------------------------------------------------------------------------------: | :---: |
+| study list |                                                 title                                                 | Write |
+| :--------: | :---------------------------------------------------------------------------------------------------: | :---: |
 | Typography |
-|  property  | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Typography/Typo.css">📂</a> |
+|  property  |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Typography/Typo.css">📄</a>   |
+| Typography |
+|  Webfont   | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Typography/Webfont.css">📄</a> |
