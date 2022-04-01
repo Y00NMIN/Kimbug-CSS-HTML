@@ -77,9 +77,10 @@
 
 #### Day9 Typography [블로그](https://yoon-min-codinglog.tistory.com/38) 정리 글.
 
-| study list |   title    |                                                  Write                                                   |
-| :--------: | :--------: | :------------------------------------------------------------------------------------------------------: |
-| Typography |  property  |    <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Typography/Typo.css">📄</a>    |
-| Typography |  Webfont   |    <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Typography/Webfont">📂</a>     |
-| Typography | practice 1 |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Typography/Typography-1">📂</a>  |
-| Background |  property  | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Background/Background.css">📄</a> |
+| study list |         title         |                                                  Write                                                   |
+| :--------: | :-------------------: | :------------------------------------------------------------------------------------------------------: |
+| Typography |       property        |    <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Typography/Typo.css">📄</a>    |
+| Typography |        Webfont        |    <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Typography/Webfont">📂</a>     |
+| Typography |      practice 1       |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Typography/Typography-1">📂</a>  |
+| Background |       property        | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Background/Background.css">📄</a> |
+| Background | practice1(AirBnBCard) |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Background/background-1">📂</a>  |
