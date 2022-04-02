@@ -1,0 +1,33 @@
+/*property*/
+.box {
+  font-size: 20px;
+  background-color: #0066ff;
+  transition: font-size;
+}
+/*duration*/
+.box {
+  font-size: 20px;
+  background-color: #0066ff;
+  transition: font-size 2500ms;
+  /*[ ms(miele seconds) | s(seconds) ]*/
+}
+/*timing-function*/
+.box {
+  font-size: 20px;
+  background-color: #0066ff;
+  transition: font-size 2500ms ease-in;
+  /*[ ease-in | ease-out | ease-in-out | cubic-bezier( ) ]*/
+}
+/*delay*/
+.box {
+  font-size: 20px;
+  background-color: #0066ff;
+  transition: font-size 2500ms ease-out,
+    background-color 2000ms cubic-bezier(0.08, 0.57, 0.97, -0.78);
+  /*각각의 property마다 개별 선언이 가능하다( , )*/
+}
+
+.box.active {
+  font-size: 30px;
+  background-color: #ff4949;
+}

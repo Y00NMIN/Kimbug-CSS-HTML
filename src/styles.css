@@ -1,163 +1,25 @@
-.like-button {
-  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
-}
-
-.sr-only {
-  position: absolute;
-  overflow: hidden;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  border: 0;
-  clip: rect(0, 0, 0, 0);
-}
-
-/* ▼ WHERE YOUR CODE BEGINS */
 * {
   box-sizing: border-box;
   margin: 0;
 }
+
 body {
+  font-family: "Lato", sans-serif;
+  background-color: #7d7d7d;
+  display: flex;
   width: 100vw;
   height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.line-button {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: grey;
-  font-family: "Poppins", sans-serif;
-}
-button {
-  border: none;
-}
-
-.card {
-  background-color: #e5e5e5;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  width: 840px;
-  height: 250px;
-}
-
-.like-button {
-  background-image: url("StudyCSS/Background/background-1/assets/icon-favorite.svg");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #fff;
-  background-size: 24px 24px;
-  position: absolute;
-  border-radius: 50%;
-  width: 36px;
-  height: 36px;
-  left: 12px;
-  top: 12px;
-  cursor: pointer;
-}
-
-.card-image {
-  border-radius: 6px;
-  position: relative;
-  width: 300px;
-  height: 200px;
-  background-image: url(StudyCSS/Background/background-1/assets/img-house.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  margin: 24px;
-}
-
-.card-content {
-  margin: 28px 0;
-  flex-grow: 1;
-}
-
-.card-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.property-type span {
+  width: 110px;
+  height: 56px;
   font-size: 16px;
-  line-height: 1.25;
-  font-weight: 400;
-  color: #7d858f;
-}
-
-.plus-badge {
-  display: inline-block;
-  text-align: center;
-  width: 48px;
-  height: 22px;
-  background-color: #92174d;
-  border-radius: 4px;
-  color: #ffffff;
-  font-size: 14px;
-  line-height: 20px;
-  font-weight: 500;
-  padding: 1px 8px;
-  text-transform: uppercase;
-  margin-right: 6px;
-}
-
-.property-rate {
-  font-size: 16px;
-  line-height: 1.25;
-  color: #7d858f;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 93px;
-}
-
-.property-rate strong {
-  color: #151b26;
-  font-weight: 600;
-}
-
-.property-rate::before {
-  content: "";
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  background-image: url("StudyCSS/Background/background-1/assets/icon-star.svg");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: contain;
-}
-
-.property-rate img {
-  width: 13px;
-  height: 13px;
-}
-
-.card-title {
-  font-size: 20px;
-  font-weight: 400;
-  line-height: 1.6;
-  color: #151b26;
-  margin-top: 8px;
-}
-
-.card-detail {
-  color: #7d858f;
-  font-size: 14px;
-  line-height: 16px;
-  font-weight: 400;
-  margin: 16px 0 0 0;
-}
-
-.card-detail dd span::after {
-  content: " ·";
-  margin: 0 3px;
-}
-
-.card-detail dd span:last-child:after {
-  content: "";
-  margin: 0;
-}
-
-.property-detail div:last-child {
-  margin-top: 8px;
+  line-height: 0.8;
+  background-color: #ffffff;
 }

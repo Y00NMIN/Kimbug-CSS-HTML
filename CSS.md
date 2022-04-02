@@ -84,3 +84,11 @@
 | Typography |      practice 1       |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Typography/Typography-1">📂</a>  |
 | Background |       property        | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Background/Background.css">📄</a> |
 | Background | practice1(AirBnBCard) |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Background/background-1">📂</a>  |
+
+### 🌱Day9
+
+#### Day9 Transition & Animation [블로그](https://yoon-min-codinglog.tistory.com/38) 정리 글.
+
+| study list |  title   |                                                  Write                                                   |
+| :--------: | :------: | :------------------------------------------------------------------------------------------------------: |
+| Transition | property | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Transition/transition.css">📄</a> |
