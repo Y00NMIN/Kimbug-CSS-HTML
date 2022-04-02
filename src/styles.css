@@ -69,6 +69,7 @@ button {
 
 .card-content {
   margin: 28px 0;
+  flex-grow: 1;
 }
 
 .card-header {
@@ -79,12 +80,13 @@ button {
 
 .property-type span {
   font-size: 16px;
-  line-height: 20px;
+  line-height: 1.25;
   font-weight: 400;
   color: #7d858f;
 }
 
 .plus-badge {
+  display: inline-block;
   text-align: center;
   width: 48px;
   height: 22px;
@@ -94,14 +96,35 @@ button {
   font-size: 14px;
   line-height: 20px;
   font-weight: 500;
-  padding: 0 8px 0 8px;
+  padding: 1px 8px;
+  text-transform: uppercase;
+  margin-right: 6px;
 }
 
 .property-rate {
+  font-size: 16px;
+  line-height: 1.25;
+  color: #7d858f;
   display: flex;
   justify-content: center;
   align-items: center;
   width: 93px;
+}
+
+.property-rate strong {
+  color: #151b26;
+  font-weight: 600;
+}
+
+.property-rate::before {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url("StudyCSS/Background/background-1/assets/icon-star.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
 }
 
 .property-rate img {
@@ -112,9 +135,9 @@ button {
 .card-title {
   font-size: 20px;
   font-weight: 400;
-  line-height: 32px;
+  line-height: 1.6;
   color: #151b26;
-  margin-top: 9px;
+  margin-top: 8px;
 }
 
 .card-detail {
@@ -123,6 +146,16 @@ button {
   line-height: 16px;
   font-weight: 400;
   margin: 16px 0 0 0;
+}
+
+.card-detail dd span::after {
+  content: " ·";
+  margin: 0 3px;
+}
+
+.card-detail dd span:last-child:after {
+  content: "";
+  margin: 0;
 }
 
 .property-detail div:last-child {
