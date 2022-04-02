@@ -87,8 +87,9 @@
 
 ### 🌱Day9
 
-#### Day9 Transition & Animation [블로그](https://yoon-min-codinglog.tistory.com/38) 정리 글.
+#### Day9 Transition & Animation [블로그](https://yoon-min-codinglog.tistory.com/39) 정리 글.
 
 | study list |  title   |                                                  Write                                                   |
 | :--------: | :------: | :------------------------------------------------------------------------------------------------------: |
 | Transition | property | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Transition/transition.css">📄</a> |
+| Animation  | property | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Transition/animation.css">📄</a>  |

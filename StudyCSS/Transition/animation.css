@@ -1,0 +1,78 @@
+/* poperty */
+
+/*name*/
+@keyframes name {
+  from {
+    /* Rules */
+  }
+
+  to {
+    /* Rules */
+  }
+}
+/*other way*/
+@keyframes name {
+  100% {
+    /* Rules */
+  }
+
+  50% {
+    /* Rules */
+  }
+
+  0% {
+    /* Rules */
+  }
+}
+
+/* duration */
+.box {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  background-color: #0066ff;
+  animation-name: move-box;
+  animation-duration: 2000ms;
+}
+@keyframes move-box {
+  from {
+    top: 0;
+    background-color: #0066ff;
+  }
+  to {
+    top: 200px;
+    background-color: #ff4949;
+  }
+}
+
+/* timing-function */
+.box {
+  animation-name: move-box;
+  animation-duration: 4000ms;
+  animation-timing-function: ease-in-out;
+}
+
+/* delay */
+.box {
+  animation-name: move-box;
+  animation-duration: 4000ms;
+  animation-timing-function: ease-in-out;
+  animation-delay: 1000ms;
+}
+
+/* iteration-count */
+.box {
+  animation-name: move-box;
+  animation-duration: 4000ms;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: 3;
+}
+
+/* direction */
+.box {
+  animation-name: move-box;
+  animation-duration: 4000ms;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: 3;
+  animation-direction: alternate;
+}
