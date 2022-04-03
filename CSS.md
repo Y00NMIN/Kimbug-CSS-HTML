@@ -89,8 +89,9 @@
 
 #### Day9 Transition & Animation [블로그](https://yoon-min-codinglog.tistory.com/39) 정리 글.
 
-| study list |       title        |                                                  Write                                                   |
-| :--------: | :----------------: | :------------------------------------------------------------------------------------------------------: |
-| Transition |      property      | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Transition/transition.css">📄</a> |
-| Animation  |      property      | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Transition/animation.css">📄</a>  |
-| Transition | practice 1(button) |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Transition/transition-1">📂</a>  |
+| study list |          title          |                                                  Write                                                   |
+| :--------: | :---------------------: | :------------------------------------------------------------------------------------------------------: |
+| Transition |        property         | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Transition/transition.css">📄</a> |
+| Animation  |        property         | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Transition/animation.css">📄</a>  |
+| Transition |   practice 1(button)    |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Transition/transition-1">📂</a>  |
+| Animation  | practice 1(loading bar) |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Transition/animation-1">📂</a>   |
