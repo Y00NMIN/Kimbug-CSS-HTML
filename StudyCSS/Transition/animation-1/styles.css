@@ -34,7 +34,7 @@ body {
   animation-name: flicker;
   animation-duration: 1600ms;
   animation-iteration-count: infinite;
-  direction: alternate;
+  animation-direction: alternate;
 }
 
 .progress-bar {
@@ -73,7 +73,7 @@ body {
     width: 0;
     opacity: 1;
   }
-  50% {
+  90% {
     width: 100%;
     opacity: 1;
   }
