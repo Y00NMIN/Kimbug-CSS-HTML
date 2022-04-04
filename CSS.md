@@ -102,3 +102,4 @@
 | :--------: | :-------: | :---------------------------------------------------------------------------------------------: |
 |    Etc     | boxshadow |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Etc/boxshadow">📂</a>   |
 |    Etc     | overflow  | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Etc/overflow.css">📄</a> |
+|    Etc     | transform |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Etc/transform">📂</a>   |

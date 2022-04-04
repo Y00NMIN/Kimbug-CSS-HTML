@@ -1,0 +1,32 @@
+/* transform 가장 유용하게 사용하는 3속성 공부*/
+/* transform은 다른 요소에 영향을 끼친지 않는다는게 가장 큰 특징이다. */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  background-color: #fff;
+}
+div {
+  display: block;
+}
+.box {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  background-color: #0066ff;
+  transform: translate(100px, 30%);
+  /* translate(x, y) | scale(Number) | rotate(Ndeg) */
+}
+
+p {
+  background-color: #7d7d7d;
+}
+/* translate(x, y) */
+/*translate에서 %사용시, 움직이는 기준은 width, height값 이다. */
+
+/* scale(Number) or scale(x, y)*/
+/* 숫자만큼 배수로 증가 | x는 width 값 배수로 증가, y는 height 값 배수로 증가 */
+
+/* rotate(Ndeg) */
+/* rotate(90deg) 90도 각도 회전 */
