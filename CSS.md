@@ -98,6 +98,7 @@
 
 ### 🌱Day10
 
-| study list |   title   |                                            Write                                             |
-| :--------: | :-------: | :------------------------------------------------------------------------------------------: |
-|    Etc     | boxshadow | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Etc/boxshadow">📂</a> |
+| study list |   title   |                                              Write                                              |
+| :--------: | :-------: | :---------------------------------------------------------------------------------------------: |
+|    Etc     | boxshadow |  <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Etc/boxshadow">📂</a>   |
+|    Etc     | overflow  | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/StudyCSS/Etc/overflow.css">📄</a> |

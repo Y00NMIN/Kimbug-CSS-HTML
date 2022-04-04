@@ -1,0 +1,17 @@
+/* width와 height값을 가질 수 있는 요소 안에 있는 자손요소,content가 설정 범위보다 넘칠때 사용 */
+.box {
+  overflow: hidden;
+  /* visible | auto | scroll | hidden */
+}
+
+/* visible(default) : display에 모두 표시 */
+/* auto ,scroll : display에 넘치는 부분 스크롤 이용  */
+/* hidden : display에 넘치는 부분은 탈락 시킨다..*/
+.p {
+  width: 500px;
+  height: 400px;
+  background-color: #0066ff;
+}
+.blockquote {
+  background-color: #ffc82c;
+}
