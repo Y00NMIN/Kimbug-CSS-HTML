@@ -11,6 +11,6 @@
 
 ## 🏆Study List
 
-### [ 🥇 Study HTML! ](https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/HTML.md)
+### [ 🥇 Study HTML! ](https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Markdown/HTML.md)
 
-### [ 🥇 Study CSS ! ](https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/CSS.md)
+### [ 🥇 Study CSS ! ](https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/Markdown/CSS.md)
