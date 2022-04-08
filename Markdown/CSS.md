@@ -108,8 +108,9 @@
 
 # 🥇Let's Practice CSS
 
-| study list | title |                                            Write                                            |
-| :--------: | :---: | :-----------------------------------------------------------------------------------------: |
-| Bootstrap  |  Use  | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/PracticeCSS/Bootstrap">📂</a> |
+| Practice list |    title     |                                            Write                                            |                                          Write                                          |
+| :-----------: | :----------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+|   Bootstrap   | User's Guide | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/PracticeCSS/Bootstrap">📂</a> |
+| Final Project |     Yoon     |    <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/index.html">HTML📄</a>     | <a href="https://github.com/Y00NMIN/Kimbug-CSS-HTML/blob/main/src/styles.css">CSS📄</a> |
 
 ## 🏁Finish
