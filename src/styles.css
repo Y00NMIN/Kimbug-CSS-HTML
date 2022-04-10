@@ -184,9 +184,8 @@ p {
 
 /* curriculum page */
 .curriculum {
-  height: 410px;
+  height: 710px;
 }
-
 .curriculum-title {
   display: block;
   color: #0189d1;
@@ -235,6 +234,81 @@ p {
 
 .curriculum-detail-desc:first-child {
   margin-bottom: 40px;
+}
+
+/* banner */
+.banner {
+  height: 588px;
+  background-color: #f2f8fa;
+}
+
+.banner-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 65px;
+  margin: 65px 0 41px 0;
+}
+
+.banner-img img {
+  display: block;
+  width: 190px;
+  height: 190px;
+}
+
+.banner-title {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.05em;
+  color: #2b292d;
+  margin-bottom: 16px;
+}
+
+.banner .input-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-group input,
+button {
+  width: 290px;
+  height: 48px;
+}
+
+.input-group input {
+  margin-bottom: 8px;
+  border-radius: 2px;
+  border: none;
+}
+
+.input-group input:focus {
+  border: 1px solid #0189d1;
+}
+
+.input-group button {
+  border-radius: 2px;
+  border: none;
+  background-color: #3040c4;
+  text-align: center;
+  color: #fff;
+  cursor: pointer;
+}
+
+.banner-misc {
+  color: #7b7b7e;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.53;
+  text-align: center;
+}
+
+.banner-misc a {
+  color: #0189d1;
+  border-bottom: 1px solid #0189d1;
 }
 
 /* >= 768px (Desktop)*/
