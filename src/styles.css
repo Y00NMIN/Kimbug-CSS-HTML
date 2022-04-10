@@ -74,10 +74,10 @@ p {
 
 .landing-button {
   display: flex;
-  justify-content: space-between;
   margin-top: 24px;
   color: #3040c4;
   text-align: center;
+  justify-content: center;
 }
 
 .apply-button,
@@ -97,20 +97,18 @@ p {
   transition: background-color 1200ms;
 }
 
-.landing-button .apply-button {
-  left: 0;
+.apply-button {
+  margin-right: 8px;
 }
 
-.landing-button .learn-button {
-  right: 0;
 }
-
 /* Service page */
 #service {
   height: 496px;
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #f4f5f7;
 }
 .service-title {
   color: #2b292d;
