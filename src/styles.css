@@ -181,6 +181,62 @@ p {
   text-align: center;
   letter-spacing: -0.02em;
 }
+
+/* curriculum page */
+.curriculum {
+  height: 410px;
+}
+
+.curriculum-title {
+  display: block;
+  color: #0189d1;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin: 80px 0 8px 0;
+}
+
+.curriculum-card-head {
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 1.05;
+  letter-spacing: -0.03em;
+  color: #2b292d;
+  margin-bottom: 24px;
+}
+
+.curriculum-card-desc {
+  margin-bottom: 32px;
+}
+
+.curriculum-card-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  background-color: #3040c4;
+  width: 140px;
+  height: 48px;
+  border-radius: 2px;
+  margin-bottom: 48px;
+}
+
+.curriculum-card-button:hover {
+  background-color: rgba(48, 64, 196, 0.2);
+  color: #3040c4;
+  border: 1px solid #3040c4;
+  transition: background-color 2000ms, border 700ms, color 800ms;
+}
+
+.curriculum-card-img img {
+  display: none;
+}
+
+.curriculum-detail-desc:first-child {
+  margin-bottom: 40px;
+}
+
 /* >= 768px (Desktop)*/
 @media screen and (min-width: 768px) {
   /* Reset CSS */
