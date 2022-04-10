@@ -47,14 +47,15 @@ p {
 }
 
 /* <= 768px (Mobile) */
-/* landing page */
+/* Landing page */
 #landing {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: #fdded8;
-  height: 100vh;
+  width: 100wh;
+  height: 568px;
 }
 
 .landing-title {
@@ -93,6 +94,7 @@ p {
 .learn-button:hover {
   color: #ffffff;
   background-color: #3040c4;
+  transition: background-color 1200ms;
 }
 
 .landing-button .apply-button {
@@ -101,6 +103,29 @@ p {
 
 .landing-button .learn-button {
   right: 0;
+}
+
+/* Service page */
+#service {
+  height: 496px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.service-title {
+  color: #2b292d;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.36;
+  margin-bottom: 16px;
+  letter-spacing: -0.04em;
+}
+.service-desc {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  margin-bottom: 40px;
+  letter-spacing: -0.01em;
 }
 
 /* >= 768px (Desktop)*/
