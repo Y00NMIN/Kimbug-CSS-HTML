@@ -62,13 +62,13 @@ p {
   font-size: 40px;
   font-weight: 700;
   line-height: 1;
-  letter-spacing: -5%;
+  letter-spacing: -0.05em;
   text-align: center;
   color: #2b292d;
+  margin-bottom: 24px;
 }
 
 .landing-subtitle {
-  margin-top: 24px;
   text-align: center;
 }
 
@@ -121,11 +121,7 @@ p {
 }
 .service-desc {
   display: block;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
   margin-bottom: 40px;
-  letter-spacing: -0.01em;
 }
 
 /* Program page */
@@ -158,6 +154,7 @@ p {
 
 .program-card {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   width: 290px;
@@ -166,6 +163,22 @@ p {
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1), 0px 4px 6px rgba(0, 0, 0, 0.05),
     inset 0px 1px 0px rgba(255, 255, 255, 0.1);
   margin-bottom: 20px;
+}
+
+.program-card a {
+  display: block;
+  width: 290px;
+  height: auto;
+}
+
+.program-card:hover {
+  background-color: #3141c5;
+  transition: background-color 2500ms;
+}
+
+.program-card a:hover {
+  color: #fff;
+  transition: color 2500ms;
 }
 
 .program-card img {
@@ -180,7 +193,7 @@ p {
   transition: transform 2000ms;
 }
 
-.program-card p {
+.program-card h1 {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.3333;
@@ -192,6 +205,7 @@ p {
 .curriculum {
   height: 710px;
 }
+
 .curriculum-title {
   display: block;
   color: #0189d1;
@@ -221,7 +235,6 @@ p {
   align-items: center;
   color: #ffffff;
   background-color: #3040c4;
-  outline: none;
   width: 140px;
   height: 48px;
   border-radius: 2px;
@@ -230,6 +243,7 @@ p {
 
 .curriculum-card-button:hover {
   background-color: rgba(48, 64, 196, 0.2);
+  outline: none;
   color: #3040c4;
   transition: background-color 2000ms, color 800ms;
 }
@@ -259,7 +273,6 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 65px;
   margin: 65px 0 41px 0;
 }
 
@@ -267,6 +280,13 @@ p {
   display: block;
   width: 190px;
   height: 190px;
+}
+
+.banner-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
 }
 
 .banner-title {
@@ -326,16 +346,14 @@ button {
 
 /* footer */
 footer {
+  width: 100%;
   height: 136px;
-}
-
-footer a {
-  display: block;
 }
 
 footer a:first-child {
   margin-top: 24px;
 }
+
 .footer-desc {
   display: block;
   color: #807f81;
@@ -353,16 +371,146 @@ footer a:first-child {
     line-height: 1.363636;
   }
   /* Landing page */
+  .landing-title {
+    font-size: 70px;
+    line-height: 1.028;
+  }
 
+  .apply-button,
+  .learn-button {
+    width: 160px;
+    height: 56px;
+  }
+
+  .apply-button {
+    margin-right: 16px;
+  }
   /* Service page */
+  .service {
+    height: 340px;
+  }
 
+  .service-title {
+    font-size: 26px;
+    line-height: 1.307;
+  }
   /* Program page */
+  .program {
+    height: 827px;
+  }
 
+  .program-title {
+    font-size: 22px;
+    line-height: 1.0909;
+    text-align: center;
+    margin-bottom: 16px;
+  }
+
+  .program-content-head {
+    text-align: center;
+    font-size: 56px;
+    line-height: 1;
+    margin-bottom: 32px;
+  }
+
+  .program-content-desc {
+    text-align: center;
+    margin-bottom: 72px;
+  }
+
+  .program-card {
+    height: 300px;
+    box-shadow: 0px 13px 18px rgba(0, 0, 0, 0.15),
+      0px 11px 55px rgba(0, 0, 0, 0.07);
+  }
+
+  .program-card:first-child,
+  .program-card:nth-child(2) {
+    margin-right: 30px;
+  }
+
+  .program-card h1 {
+    font-size: 20px;
+    line-height: 1.0909;
+  }
   /* curriculum page */
+  .curriculum {
+    height: 728px;
+  }
+
+  .curriculum-title {
+    font-size: 22px;
+    line-height: 1.0909;
+    margin-bottom: 16px;
+  }
+
+  .curriculum-card-head {
+    font-size: 56ppx;
+    line-height: 1;
+    margin-bottom: 32px;
+  }
+
+  .curriculum-card-desc {
+    margin-bottom: 72px;
+  }
+
+  .curriculum-card-button {
+    width: 160px;
+    height: 56px;
+    margin-bottom: 66px;
+  }
+
   .curriculum-card-img {
-    visibility: visible;
+    display: block;
   }
   /* banner page */
+  .banner {
+    height: 460px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .banner-img {
+    margin: 0;
+  }
+  .banner-title {
+    margin-bottom: 16px;
+  }
+
+  .banner-desc {
+    margin-bottom: 24px;
+  }
+
+  .banner .input-group {
+    flex-direction: row;
+  }
+
+  .banner .input-group input {
+    margin-bottom: 4px;
+    width: 362px;
+    margin-right: 8px;
+    height: 55px;
+  }
+
+  .banner .input-group button {
+    margin-bottom: 4px;
+    width: 160px;
+    height: 55px;
+  }
+
+  .banner-misc {
+    font-size: 14px;
+    line-height: 1.714;
+  }
+  /* footer */
+  footer {
+    height: 56px;
+  }
+  .footer-desc {
+    display: inline;
+    margin: 0 16px 0 0;
+  }
 }
 
 /* CUstom Frid System - fix container width */
