@@ -169,9 +169,10 @@ p {
 }
 
 .program-card img {
-  width: 140px;
+  display: block;
+  width: auto;
   height: 195px;
-  margin-bottom: 16px;
+  margin: 0 auto 16px;
 }
 
 .program-card img:hover {
@@ -233,8 +234,15 @@ p {
   transition: background-color 2000ms, color 800ms;
 }
 
-.curriculum-card-img img {
+.curriculum-card-img {
   display: none;
+  padding: 12px;
+}
+
+.curriculum-card-img img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .curriculum-detail-desc:first-child {
@@ -344,6 +352,17 @@ footer a:first-child {
     font-size: 22px;
     line-height: 1.363636;
   }
+  /* Landing page */
+
+  /* Service page */
+
+  /* Program page */
+
+  /* curriculum page */
+  .curriculum-card-img {
+    visibility: visible;
+  }
+  /* banner page */
 }
 
 /* CUstom Frid System - fix container width */
