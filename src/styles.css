@@ -283,6 +283,22 @@ p {
   align-items: flex-start;
 }
 
+.input-group input,
+button {
+  width: 290px;
+  height: 48px;
+}
+
+.input-group input {
+  margin-bottom: 8px;
+  border-radius: 2px;
+  border: none;
+}
+
+.input-group input:focus {
+  border: 1px solid #0189d1;
+}
+
 .banner-title {
   text-align: center;
   font-size: 32px;
@@ -300,22 +316,6 @@ p {
   align-items: center;
 }
 
-.input-group input,
-button {
-  width: 290px;
-  height: 48px;
-}
-
-.input-group input {
-  margin-bottom: 8px;
-  border-radius: 2px;
-  border: none;
-}
-
-.input-group input:focus {
-  border: 1px solid #0189d1;
-}
-
 .input-group button {
   border-radius: 2px;
   border: none;
@@ -328,33 +328,26 @@ button {
 .banner-misc {
   color: #7b7b7e;
   font-size: 13px;
-  font-weight: 400;
   line-height: 1.53;
   text-align: center;
 }
 
 .banner-misc a {
   color: #0189d1;
-  border-bottom: 1px solid #0189d1;
+  text-decoration: underline;
 }
 
 /* footer */
 footer {
-  width: 100%;
-  height: 136px;
-}
-
-footer a:first-child {
-  margin-top: 24px;
+  padding: 24px 0;
 }
 
 .footer-desc {
-  display: block;
   color: #807f81;
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 1.71;
   margin-bottom: 8px;
+}
+.footer-desc:last-child {
+  margin-bottom: 0;
 }
 
 /* >= 768px (Desktop)*/
@@ -482,6 +475,7 @@ footer a:first-child {
   }
 
   .banner .input-group {
+    display: flex;
     flex-direction: row;
   }
 
@@ -503,12 +497,19 @@ footer a:first-child {
     line-height: 1.714;
   }
   /* footer */
-  footer {
-    height: 56px;
+  footer .col-1 {
+    display: flex;
+    align-items: center;
   }
   .footer-desc {
-    display: inline;
     margin: 0 16px 0 0;
+  }
+  .footer-desc li {
+    margin-right: 16px;
+    margin-bottom: 0;
+  }
+  .footer-desc li {
+    margin-right: 0;
   }
 }
 
